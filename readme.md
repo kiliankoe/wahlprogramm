@@ -1,20 +1,24 @@
+![image](P2D2.eps){width="10cm"}
+
+.
+
 # Präambel
 
-Jeder Mensch ist mit gleichen Rechten geboren. Niemand darf daher aufgrund von Merkmalen jeglicher Art benachteiligt oder gar ausgeschlossen werden. Piratige Politik muss sich immer von diesem Grundsatz leiten lassen. Insbesondere Kinder und Jugendliche stehen unter besonderem Schutz, denn sie konnten sich ihr Umfeld nicht selbst aussuchen. Daher ist es ein oberes Piratenziel, gleiche Teilhabe am städtischen Leben für alle Menschen und vor allem für Kinder und Jugendliche zu ermöglichen.
+Jeder Mensch ist mit gleichen Rechten geboren. Niemand darf daher aufgrund von irgendwelchen Merkmalen benachteiligt oder gar ausgeschlossen werden. Piratische Politik muss sich immer von diesem Grundsatz leiten lassen. Insbesondere Kinder und Jugendliche stehen unter besonderem Schutz, denn sie konnten sich ihr Umfeld nicht selbst aussuchen. Daher ist es ein oberes Piratenziel, gleiche Teilhabe am städtischen Leben für alle Menschen und vor allem für Kinder und Jugendliche zu ermöglichen.
 
-Wir Piraten sehen, dass wir in einer unglaublich ungerechten Welt leben und müssen das ändern. Insbesondere muss die Grundversorgung aller essenziellen Bedarfe des Menschen generell gesichert sein. Wir sehen gesellschaftliche, kulturelle und politische Teilhabe, Bildung, Gesundheit, Transport und eine ausreichende monetäre Absicherung als essenziell an.
+Wir Piraten sehen, dass wir in einer unglaublich ungerechten Welt leben und müssen das ändern. Insbesondere muss die Grundversorgung aller essentiellen Bedarfe des Menschen generell gesichert sein. Wir sehen $-$ gesellschaftliche, kulturelle und politische $-$ Teilhabe, Bildung, Gesundheit, Transport und eine ausreichende monetäre Absicherung als essentiell an.
 
-Die Zukunft bietet Chancen, die es zu nutzen und positiv zu gestalten gilt. Diese Gestaltung der Zukunft begreifen wir als einen gesellschaftlichen Prozess. Daraus leitet sich ab, dass jeder Mensch in der Gesellschaft eingeladen sein muss, sich einzubringen und die Zukunft mitzugestalten. Zukunft ist immer ein dauerhafter Prozess von allen Individuen. Hierzu muss aber auch die Stadt den Menschen die Möglichkeit bieten, sich aktiv an der Zukunft zu beteiligen. Die Informationen müssen frei und transparent zugänglich sein, der Mensch muss gehört und ernst genommen werden -- und schließlich muss die Stadtpolitik auch Teile ihrer Entscheidungsmacht abgeben.
+Die Zukunft bietet Chancen, die es zu nutzen und positiv zu gestalten gilt. Diese Gestaltung der Zukunft begreifen wir als einen gesellschaftlichen Prozess. Daraus leitet sich ab, dass jeder Mensch in der Gesellschaft eingeladen sein muss, sich einzubringen und die Zukunft mit zu gestalten. Zukunft ist immer ein dauerhafter Prozess von allen Individuen. Hierzu muss aber auch die Stadt den Menschen die Möglichkeit bieten, sich aktiv an der Zukunft zu beteiligen. Die Informationen müssen frei und transparent zugänglich sein, der Mensch muss gehört und ernst genommen werden $-$ und schließlich muss die Stadtpolitik auch Teile ihrer Entscheidungsmacht abgeben.
 
-Neue Technologien bieten Chancen, unsere Welt besser zu machen. Wir Piraten lieben neue Technologien und wollen ihre positiven Möglichkeiten für Bildung, Information und Kooperation überall fördern. Neue Chancen stellen aber immer auch eine Gefahr dar, die Welt unfreier, ungerechter und unsicherer zu machen. Wir Piraten haben keine Angst -- im Gegenteil, wir stellen uns allen Fehlentwicklungen von Überwachung, Einschüchterung und Kontrolle entschlossen entgegen.
+Neue Technologien bieten Chancen unsere Welt besser zu machen. Wir Piraten lieben neue Technologien und wollen ihre positiven Möglichkeiten für Bildung, Information und Kooperation überall fördern. Neue Chancen stellen aber immer auch eine Gefahr dar, die Welt unfreier, ungerechter und unsicherer zu machen. Wir Piraten haben keine Angst $-$ im Gegenteil, wir stellen uns allen Fehlentwicklungen von Überwachung, Einschüchterung und Kontrolle entschlossen entgegen.
 
-Wir Piraten glauben an die individuelle Freiheit der Menschen. Daraus folgt, dass Verbote und Restriktionen, wo immer möglich, zu vermeiden und durch Angebote zu ersetzen sind. Wir alle müssen miteinander leben, das erfordert Respekt und Verantwortung. Was keinem anderen schadet, darf nicht verboten sein. Was verboten ist, darf dadurch keine Schäden verursachen.
+Wir Piraten glauben an die individuelle Freiheit der Menschen. Daraus folgt, dass Verbote und Restriktionen wo immer möglich zu vermeiden und durch Angebote zu ersetzen sind. Wir alle müssen miteinander leben $-$ das erfordert Respekt und Verantwortung. Was keinem anderen schadet, darf nicht verboten sein. Was verboten ist, darf dadurch keine Schäden verursachen.
 
-Wir Piraten glauben, dass die Menschen unglaublich schlau sind und neue Ideen entwickeln können -- auch und gerade zur besseren Gestaltung einer sich verdichtenden Stadt. Man muss nur über den Tellerrand schauen, bei anderen lernen und neue Dinge ausprobieren. Dies ist ein spannender Prozess, und wir wollen gern neue Ideen aufgreifen und gemeinsam umsetzen.
+Wir Piraten glauben, dass die Menschen unglaublich schlau sind und neue Ideen entwickeln können $-$ auch und gerade zur besseren Gestaltung einer sich verdichtenden Stadt. Man muss nur über den Tellerrand schauen, bei anderen lernen und neue Dinge ausprobieren. Dies ist ein spannender Prozess, und wir wollen gern neue Ideen aufgreifen und gemeinsam umsetzen.
 
 Bei Energie und Verkehr ist die Welt in einer Sackgasse gelandet. Die Städte dieser Welt haben eine besondere Verantwortung, uns mit neuen Ideen, regenerativen Energien und besseren Verkehrskonzepten die Zukunft zu sichern. Die Piraten sind überzeugt, dass Dresden hier eine Vorreiterrolle übernehmen kann. Wir müssen nur die falschen Dinge lassen und die richtigen Dinge tun.
 
-Dresden ist selbstbewusst -- jeder Mensch in Dresden macht die Stadt und ihren Reiz aus. Wir treten in diesem Kommunalwahlkampf an, um gemeinsam etwas zu verändern, um Verkrustungen aufzubrechen und weiterhin frischen Wind in die Politik Dresdens zu bringen.
+Dresden ist selbstbewusst $-$ jeder Mensch in Dresden macht die Stadt und ihren Reiz aus. Wir treten in diesem Kommunalwahlkampf an, um gemeinsam etwas zu verändern, um Verkrustungen aufzubrechen und weiterhin frischen Wind in die Politik Dresdens zu bringen.
 
 Wir sind motiviert. Wir haben Ideen. Wir sind Piraten.
 
@@ -36,7 +40,7 @@ Die PIRATEN Dresden setzen sich für die Förderung der Medienkompetenz ein. Die
 
 ## Open-Data Initiative
 
-Die PIRATEN Dresden fordern die datenschutzkonforme Bereitstellung aller öffentlichen Daten in maschinenlesbarem Format.
+Die PIRATEN Dresden fordern die datenschutz-konforme Bereitstellung aller öffentlichen Daten in maschinenlesbarem Format.
 
 ## Freifunk
 
@@ -44,7 +48,7 @@ Die PIRATEN Dresden setzen sich für die Förderung von Freifunk-Initiativen ein
 
 ## WLAN im Park
 
-Die PIRATEN Dresden setzen sich dafür ein, dass Dresdener Parks mit WLAN versorgt werden. Hierzu sind Freifunk-Initiativen zu unterstützen. Ein kommunaler Beitrag ist hierbei sehr wünschenswert.
+Die PIRATEN Dresden setzen sich dafür ein, dass Dresdener Parks mit WLAN versorgt werden. Hierzu sind Freifunkinitiativen zu unterstützen. Ein kommunaler Beitrag ist hierbei sehr wünschenswert.
 
 ## Open-Source in der Verwaltung
 
@@ -56,15 +60,15 @@ Jegliche für die Verwaltung erstellte Software muss unter einer Open-Source-Liz
 
 ## Personenbezogene Daten schützen
 
-Die PIRATEN Dresden fordern, dass personenbezogene Daten (z. B. Meldedaten) nicht gegen den eigenen Willen an Dritte weitergegeben und schon gar nicht verkauft werden dürfen (Opt-in oder Opt-out).
+Die PIRATEN Dresden fordern, dass personenbezogene Daten (z.B. Meldedaten) nicht gegen den eigenen Willen an Dritte weitergegeben und schon gar nicht verkauft werden dürfen (Opt-In oder Opt-Out).
 
 ## eGovernment $-$ elektronische Verwaltung
 
-Die PIRATEN Dresden wollen die Möglichkeiten des Internets auch für eine verbesserte Zusammenarbeit zwischen Menschen/Institutionen und der Verwaltung einsetzen (eGovernment). Dies muss auf einer sicheren, kostenlosen, verschlüsselten und barrierearmen IT beruhen. Innerhalb der Verwaltung sollen die Möglichkeiten der Digitalisierung genutzt werden, um Vorgänge für Bürger·innen schneller abzuwickeln und die Arbeitslast für die Mitarbeitenden zu reduzieren. Möglichst sollen alle Anliegen vollständig online abgewickelt werden können. Das soll für Angehörige aller Staaten, ob EU oder nicht-EU, möglich sein. Der Postweg ist als Alternative zwingend zu erhalten.
+Die PIRATEN Dresden wollen die Möglichkeiten des Internets auch für eine verbesserte Zusammenarbeit zwischen Menschen/Institutionen und der Verwaltung einsetzen (eGoverment). Dies muss auf einer sicheren, kostenlosen, verschlüsselten und barrierearmen IT beruhen. Innerhalb der Verwaltung sollen die Möglichkeiten der Digitalisierung genutzt werden, um Vorgänge für Bürger·innen schneller abzuwickeln und die Arbeitslast für die Mitarbeitenden zu reduzieren. Möglichst alle Anliegen sollen vollständig online abgewickelt werden können. Das soll für Angehörige aller Staaten, ob EU oder nicht-EU, möglich sein. Der Postweg ist als Alternative zwingend zu erhalten.
 
 ## Sicherer E-Mailverkehr zwischen Stadt und Einwohnenden
 
-Jede Kommunikation der Dresdner Verwaltung, sowohl rein interne als auch externe, muss im Normalfall verschlüsselt sein. Diese Verschlüsselung muss einschlägige Open-Source-Standards (bspw. S/MIME) verwenden und für Bürger·innen kostenfrei sein. Die erforderliche Infrastruktur (Zertifikats-Vergabe-Verfahren, Verzeichnisdienst für öffentliche Schlüssel) soll sich ebenfalls ausschließlich an Open-Source-Software bedienen. Die Vorgaben für Zugänge, Ausgabe und weitere Verwendungen der kryptografischen Schlüssel müssen öffentlich im Internet einsehbar sein.
+Jede Kommunikation der Dresdner Verwaltung, sowohl rein interne als auch externe, muss im normalfall verschlüsselt sein. Diese Verschlüsselung muss einschlägige Open-Source-Standards (bspw. S/MIME) verwenden und für Bürger·innen kostenfrei sein. Die erforderliche Infrastruktur (Zertifikats-Vergabe-Verfahren, Verzeichnisdienst für öffentliche Schlüssel) soll sich ebenfalls ausschließlich an Open-Source-Software bedienen. Die Vorgaben zur Verwendung, Zugängen, Ausgabe usw. der kryptographischen Schlüssel muss öffentlich im Internet einsehbar sein.
 
 # Freiheit und Selbstbestimmung
 
@@ -96,7 +100,7 @@ Die PIRATEN Dresden fordern, dass das Ordnungsamt optisch wie funktional wieder 
 
 Wir setzen uns dafür ein, dass in Dresden Cannabis Social Clubs eingerichtet werden.
 
-## Drogenprävention und sicherer Drogenkonsum
+## Dogenprävention und sicherer Drogenkonsum
 
 Die PIRATEN Dresden setzen sich dafür ein, dass die Drogenprävention und die Suchthilfe finanziell, personell und strukturell gestärkt wird. Darüber hinaus fordern wir, dass anonyme Teststationen geschaffen werden, in denen man die genaue Zusammensetzung von Substanzen bestimmen lassen kann.
 
@@ -106,7 +110,7 @@ Die PIRATEN Dresden setzen sich dafür ein, Leerstand und ungenutzte Flächen in
 
 ## Erklärung zur BRN
 
-Die Neustadtpiraten und die PIRATEN Dresden bekennen sich zur BRN und wissen um die besondere Bedeutung dieses Stadtteilfestes für die Äußere Neustadt. Wir legen Wert auf Zusammenarbeit mit den örtlichen Bürger\*innen-Bewegungen (z. B. der Schwafelrunde bzw. deren Nachfolger·innen) und verfolgen das gemeinsame Bemühen um eine positive Entwicklung unseres Stadtteilfestes. Aufgrund der steigenden und im Ehrenamt kaum mehr stemmbaren bürokratischen Belastung ist die Zukunft der BRN noch offen. Wir sind gegen eine fortschreitende Kommerzialisierung und für mehr Beteiligung der Bewohnenden der Dresdner Neustadt bei der Frage, wie die BRN in Zukunft organisiert werden soll. Das Fest gehört den Neustädter·innen in ihrer Tradition der unabhängigen Bunten Republik Neustadt $-$ und deshalb können auch nur sie über ihre Zukunft entscheiden.
+Die Neustadtpiraten und die PIRATEN Dresden bekennen sich zur BRN und wissen um die besondere Bedeutung dieses Stadtteilfestes für die Äußere Neustadt. Wir legen Wert auf Zusammenarbeit mit den örtlichen Bürger\*innen-Bewegungen (z.B. der Schwafelrunde bzw. deren Nachfolger·innen) und verfolgen das gemeinsame Bemühen um eine positive Entwicklung unseres Stadtteilfestes. Aufgrund der steigenden und im Ehrenamt kaum mehr stemmbaren bürokratischen Belastung ist die Zukunft der BRN noch offen. Wir sind gegen eine fortschreitende Kommerzialisierung und für mehr Beteiligung der Bewohnenden der Dresdner Neustadt bei der Frage, wie die BRN in Zukunft organisiert werden soll. Das Fest gehört den Neustädter·innen in ihrer Tradition der unabhängigen Bunten Republik Neustadt $-$ und deshalb können auch nur sie über ihre Zukunft entscheiden.
 
 ## Prävention statt Repression
 
@@ -124,7 +128,7 @@ Die PIRATEN Dresden setzen sich dafür ein, dass nicht-kommerzielle Freitanz-Ver
 
 ## Übertragung der Ratssitzungen
 
-Die PIRATEN Dresden fordern die Live-Übertragungen (Stream) und die Aufzeichnung der Stadtratssitzungen zwingend zu erhalten und stetig zu verbessern, z. B. durch Barrierefreiheit, Untertitel, CC0-Lizenz und Links zu einzelnen Redebeiträgen. Des Weiteren fordern wir zumindest Audio-Übertragungen der öffentlichen Ausschusssitzungen. Jegliches Depublizieren von Sitzungsaufzeichnungen lehnen wir ab.
+Die PIRATEN Dresden fordern die Live-Übertragungen (Stream) und die Aufzeichnung der Stadtratssitzungen zwingend zu erhalten und stetig zu verbessern, z.B. durch Barrierefreiheit, Untertitel, CC0-Lizenz und Links zu einzelnen Redebeiträgen. Des Weiteren fordern wir zumindest Audio-Übertragungen der öffentlichen Ausschusssitzungen. Jegliches Depublizieren von Sitzungsaufzeichnungen lehnen wir ab.
 
 ## Wahlalter absenken
 
@@ -168,7 +172,7 @@ Whistleblower·innen (auch Hinweisgeber·innen) übernehmen in unserer Gesellsch
 
 ## Inklusive Teilhabe in der gesamten Stadt
 
-Eine selbstbestimmte, vielfältige Gesellschaft gibt allen die Möglichkeit, wirklich an ihr teilzuhaben. Deshalb setzen wir uns ausdrücklich dafür ein, die Diskriminierung marginalisierter Gruppen auch mit den Mitteln der Stadt Dresden zu bekämpfen. Zum einen brauchen wir konkrete Maoderßnahmen, wie etwa die Minimierung von Barrieren beim Straßenbau und der Verkehrsführung durch abgesenkte Bordsteine, die dezentrale Unterbringung von Geflüchteten, Förderprogramme für Migration und Inklussion durch Sport- und Kultur-Projekte, die Unterstützung von demokratiebildenden Veranstaltungen sowie Pride-Events. Zum anderen sind darüber hinaus konkrete lokale Richtlinien denkbar, die den Stadtrat und die Verwaltung unterstützen, Diskriminierungsformen wie z. B.: Sexismus, Ableismus, Rassismus, Adultismus, Altersdiskriminierung oder Queerfeindlichkeit zu minimieren. Diese müssen mit Hilfe entsprechender Fachausschüsse entwickelt werden.
+Eine selbstbestimmte, vielfältige Gesellschaft gibt allen die Möglichkeit, wirklich an ihr teilzuhaben. Deshalb setzen wir uns ausdrücklich dafür ein, die Diskriminierung marginalisierter Gruppen auch mit den Mitteln der Stadt Dresden zu bekämpfen. Zum einen brauchen wir konkrete Maoderßnahmen, wie etwa die Minimierung von Barrieren beim Straßenbau und der Verkehrsführung durch abgesenkte Bordsteine, die dezentrale Unterbringung von Geflüchteten, Förderprogramme für Migration und Inklussion durch Sport- und Kultur-Projekte, die Unterstützung von demokratiebildenden Veranstaltungen sowie Pride-Events. Zum anderen sind darüber hinaus konkrete lokale Richtlinien denkbar, die den Stadtrat und die Verwaltung unterstützen, Diskriminierungsformen wie z.B.: Sexismus, Ableismus, Rassismus, Adultismus, Altersdiskriminierung oder Queerfeindlichkeit zu minimieren. Diese müssen mit Hilfe entsprechender Fachausschüsse entwickelt werden.
 
 ## Gleichberechtigung bei kommunaler Förderung konkret werden lassen
 
@@ -210,7 +214,7 @@ Die PIRATEN Dresden fordern, dass Dresden als Gesamtstadt bis 2035 klimaneutral 
 
 ## Ökofernwärme
 
-Wir fordern eine nachhaltige Fernwärme. Dies bedeutet, dass jegliche Wärme CO2-neutral erzeugt werden muss. Neben der kompletten Dekarbonisierung der Hauptwärmeerzeuger der SachsenEnergie ist hierzu Prozesswärme einzubinden, dezentrale Wärmespeicherung zu forcieren und die denzentrale Wärmeerzeugung (z. B. Solarthermie, Geothermie) auszubauen. Insellösungen für bislang nicht an das Fernwärmenetz angeschlossene Stadtbezirke sind ebenfalls zu fördern. Hierzu sind Partnerschaften mit privaten Immobilienbesitzenden, Genossenschaften und der lokalen Wirtschaft zu schließen.
+Wir fordern eine nachhaltige Fernwärme. Dies bedeutet, dass jegliche Wärme CO2-neutral erzeugt werden muss. Neben der kompletten Dekarbonisierung der Hauptwärmeerzeuger der SachsenEnergie ist hierzu Prozesswärme einzubinden, dezentrale Wärmespeicherung zu forcieren und die denzentrale Wärmeerzeugung (z.B. Solarthermie, Geothermie) auszubauen. Insellösungen für bislang nicht an das Fernwärmenetz angeschlossene Stadtbezirke sind ebenfalls zu fördern. Hierzu sind Partnerschaften mit privaten Immobilienbesitzenden, Genossenschaften und der lokalen Wirtschaft zu schließen.
 
 ## Energiespeicher
 
@@ -234,7 +238,7 @@ Die PIRATEN Dresden fordern, dass die Konzepte der 'Schwammstadt' bei allen komm
 
 ## Fortführung des Müllkonzepts für den Alaunpark
 
-Wir fordern die konsequente Fortführung des jetzigen Müllkonzepts mit ausreichend Papierkörben, Müllcontainern und deren häufige Leerung sowie regelmäßiger Reinigung des Platzes. Hierfür sind in jedem Jahr ausreichend finanzielle Mittel (ca. 30.000 Euro) bereitzustellen. In Zukunft sollen weitere kreative Ideen (z. B. Müllsackspender, gemeinsame Sammelaktionen) die Akzeptanz für das Konzept weiter steigern. Eine Rückkehr zu Strafen und Kontrollen lehnen wir entschieden ab.
+Wir fordern die konsequente Fortführung des jetzigen Müllkonzepts mit ausreichend Papierkörben, Müllcontainern und deren häufige Leerung sowie regelmäßiger Reinigung des Platzes. Hierfür sind in jedem Jahr ausreichend finanzielle Mittel (ca. 30.000 Euro) bereitzustellen. In Zukunft sollen weitere kreative Ideen (z.B. Müllsackspender, gemeinsame Sammelaktionen) die Akzeptanz für das Konzept weiter steigern. Eine Rückkehr zu Strafen und Kontrollen lehnen wir entschieden ab.
 
 ## Bepflanzung kommunaler Grünanlagen $-$ Urban Gardening
 
@@ -272,9 +276,9 @@ Die PIRATEN Dresden fordern eine vollständige Lernmittelfreiheit für Dresden.
 
 ## Übernachtungsmöglichkeit für schulische Exkursionen
 
-Die PIRATEN Dresden fordern, dass Übernachtungsangebote der Stadt bzw. deren Einrichtungen eingeführt werden, um Kinder- und Jugendgruppen auf Bildungs-Exkursionen eine (kostenfreie) Übernachtungsmöglichkeit bereitzustellen. Hierzu können z. B. Turnhallen, Klassenräume oder Versammlungsräume genutzt werden. Es soll hierbei geprüft werden, wie und in welcher Form die Gruppen sich für dieses Angebot bedanken können $-$ z. B.  durch die Einladung einer Dresdner Gruppe in die eigene Schule bzw. dem Veröffentlichen eines Erlebnisberichts in der Schulzeitung.
+Die PIRATEN Dresden fordern, dass Übernachtungsangebote der Stadt bzw. deren Einrichtungen eingeführt werden, um Kinder- und Jugendgruppen auf Bildungs-Exkursionen eine (kostenfreie) Übernachtungsmöglichkeit bereitzustellen. Hierzu können z.B. Turnhallen, Klassenräume oder Versammlungsräume genutzt werden. Es soll hierbei geprüft werden, wie und in welcher Form die Gruppen sich für dieses Angebot bedanken können $-$ z.B.  durch die Einladung einer Dresdner Gruppe in die eigene Schule bzw. dem Veröffentlichen eines Erlebnisberichts in der Schulzeitung.
 
-## Nutzung der Flächen unter den Elbbrücken
+## Nutzung der Flächen unter den Elbbrücken 
 
 ie PIRATEN Dresden setzen sich dafür ein, dass die Flächen unter den Dresdner Brücken für zum Beispiel Outdoor-Sport oder für legale Graffiti-Flächen genutzt werden. Kooperationen mit Vereinen und Initiativen sind zu begrüßen.
 
@@ -322,15 +326,15 @@ Die Landeshauptstadt Dresden soll in Zusammenarbeit mit humanitären Organisatio
 
 ## Pfand gehört daneben
 
-Die PIRATEN Dresden setzen sich für eine Umrüstung weiterer Papierkörbe zu "pfandfreundlichen Papierkörben" ein.
+Die PIRATEN Dresden setzen uns für eine Umrüstung weiterer Papierkörbe zu "pfandfreundlichen Papierkörben" ein.
 
 ## Kein Freiheitsentzug für Fahren ohne gültigen Fahrschein
 
-Wer beim Fahren ohne Fahrschein erwischt wird, ist durch Freiheitsentzug bedroht. Die PIRATEN Dresden fordern daher, dass die DVB AG auf Strafanträge nach §265a StGB ("Erschleichen von Leistungen") verzichtet.
+Wer beim Fahren ohne Fahrschein erwischt wird, ist durch Freiheitsentzug bedroht. Die PIRATEN DRESDEN fordern daher, dass die DVB AG auf Strafanträge nach §265a StGB ("Erschleichen von Leistungen") verzichtet.
 
 ## Inklusives Wohnen
 
-Die PIRATEN Dresden fordern, inklusives Wohnen (z. B. für Menschen mit Behinderungen, Senior·innen) bei allen städtischen sowie privaten Baumaßnahmen zu ermöglichen.
+Die PIRATEN Dresden fordern, inklusives Wohnen (z.B. für Menschen mit Behinderungen, Senior·innen) bei allen städtischen sowie privaten Baumaßnahmen zu ermöglichen.
 
 ## "Wohnen in Dresden" $-$ WoBa stärken
 
@@ -342,7 +346,7 @@ Die PIRATEN Dresden setzen sich dafür ein, Objekte und Liegenschaften zur Erwei
 
 ## Alternative Wohnformen umsetzen
 
-Die PIRATEN Dresden setzen sich für die Umsetzung alternativer Wohnformen ein. Hierzu gehören z. B. Wächterhäuser, Wagenplätze, Wohninitiativen, Genossenschaften und Miethaussyndikate.
+Die PIRATEN Dresden setzen sich für die Umsetzung alternativer Wohnformen ein. Hierzu gehören z.B. Wächterhäuser, Wagenplätze, Wohninitiativen, Genossenschaften und Miethaussyndikate.
 
 ## Genossenschaftliches Wohnen fördern
 
@@ -366,7 +370,7 @@ Die PIRATEN Dresden fordern, dass es für alle Tarife der DVB auch Sozialtarife 
 
 Der gesellschaftliche Diskurs beim Thema Flucht und Asyl wird immer rauer. Vorurteile, Hass und Hetze werden geschürt und versuchen die Herzen zu vergiften. In dieser Situation ist es erst recht wichtig, es klar auszusprechen: Menschen in Not muss man helfen!
 
-Es ist daher unsere Pflicht als Stadtrat, Menschen in Not Obdach, Nahrung, Medizin und ein lebenswürdiges Auskommen zu sichern. Es ist unsere Pflicht als Stadtgesellschaft, Menschen in Not ein gutes Ankommen in Dresden zu ermöglichen. Und es ist unsere Pflicht als Menschen, unsere Herzen nicht zu verschließen und der Hetze keinen Raum zu geben.
+Es ist daher unsere Pflicht als Stadtrat, Menschen in Not Obdach, Nahrung, Medizin und ein lebenswürdiges Auskommen zu sichern. Es ist daher unsere Pflicht als Stadtgesellschaft, Menschen in Not ein gutes Ankommen in Dresden zu ermöglichen. Es ist daher unser Pflicht als Menschen, unsere Herzen nicht zu verschließen und der Hetze keinen Raum zu geben.
 
 Wir PIRATEN streben eine solidarische Welt ohne jegliche Grenzen an!
 
@@ -374,7 +378,7 @@ Wir PIRATEN streben eine solidarische Welt ohne jegliche Grenzen an!
 
 ## Migration und Integration
 
-Wir begreifen Migration als Chance für den Menschen und für unsere Gesellschaft. Damit Migration gelingen kann, sind Anstrengungen aller, auch der Politik, notwendig. Hier sehen wir vor allem die Kommunen als zentrale Akteure in der Verantwortung, die Aufgaben der Integration zu übernehmen. Zu diesen Aufgaben zählen unter anderem Schul- und Kitabesuche, kulturelle Angebote und die Einbindung in den Arbeitsmarkt. Damit die Stadt Dresden sowie jede andere Kommune diese Aufgaben entsprechend erfüllen kann, ist die Unterstützung seitens Bund und Land notwendig. Wir fordern außerdem ein kommunales Integrationszentrum, in dem wichtige Schlüsselstellen (Beratung und Hilfestellungen, Sprachkurse, soziale Träger, Vereine, Anlaufpunkte für Ehrenamt) kommunal gefördert und dauerhaft finanziell abgesichert werden, damit Migrant·innen mit diesen zusammenarbeiten können.
+Wir begreifen Migration als Chance für den Menschen und für unsere Gesellschaft. Damit Migration gelingen kann, sind Anstrengungen aller, auch der Politik, notwendig. Hier sehen wir vor allem die Kommunen als zentrale Akteure in der Verantwortung, die Aufgaben der Integration zu übernehmen. Zu diesen Aufgaben zählen unter anderem Schul- und Kitabesuch, kulturelle Angebote und die Einbindung in den Arbeitsmarkt. Damit die Stadt Dresden sowie jede andere Kommune diese Aufgaben entsprechend erfüllen kann, ist die Unterstützung seitens Bund und Land notwendig. Wir fordern außerdem ein kommunales Integrationszentrum, in dem wichtige Schlüsselstellen (Beratung und Hilfestellungen, Sprachkurse, soziale Träger, Vereine, Anlaufpunkt für Ehrenamt) kommunal gefördert und dauerhaft finanziell abgesichert werden, damit Migrant·innen mit diesen zusammenarbeiten können.
 
 Als weiteren wichtigen Bestandteil von Integration sehen wir politische Beteiligung. Deshalb fordern wir eine Senkung der Hürden für die Teilnahme an Kommunalwahlen für EU-Bürger·innen. Des Weiteren soll der Ausländerbeirat mehr Mitbestimmungsrecht erhalten, um seine beratende Funktion auszubauen, solange es kein gleichberechtigtes Wahlrecht für alle in Dresden lebenden Menschen gibt.
 
@@ -382,11 +386,11 @@ Als weiteren wichtigen Bestandteil von Integration sehen wir politische Beteilig
 
 Wir PIRATEN Dresden bekennen uns ganz klar zur Initiative "Dresden als Sicherer Hafen" und kämpfen gegen jeden Versuch, diese Entscheidung rückgängig zu machen. Die Stadt Dresden hat mehr Platz und Kapazitäten und kann mehr Geflüchtete als rechtlich vorgeschrieben aufnehmen.
 
-Die PIRATEN Dresden fordern außerdem, Geflüchtete vor Ort durch entsprechende Maßnahmen verstärkt zu unterstützen, damit sie ihre Potentiale und Fähigkeiten entfalten können. Hierzu zählen für uns eine dezentrale Unterbringung, gesicherte Gesundheitsversorgung, existenzsichernde Mittelversorgung, Schul- und Kitabetreuung ab Ankunftstag, kulturelle Teilhabe und barrierefreie Beratung. Hierzu ist ein dauerhaft finanziertes "Kommunales Integrationszentrum" notwendig, das Kompetenzen und Angebote abbildet und absichert. Durch all diese Maßnahmen soll verhindert werden, dass Geflüchtete in soziale oder gesellschaftliche Schieflagen geraten. Die Würde jedes Menschen ist unantastbar, nicht nur jene von Menschen mit europäischem Pass.
+Die PIRATEN Dresden fordern außerdem, Geflüchtete vor Ort durch entsprechende Maßnahmen verstärkt zu unterstützen, damit sie ihre Potentiale und Fähigkeiten entfalten können. Hierzu zählen für uns eine dezentrale Unterbringung, gesicherte Gesundheitsversorgung, existenzsichernde Mittelversorgung, Schul- und Kitabetreuung ab Ankunftstag, kulturelle Teilhabe und barrierefreie Beratung. Hierzu ist ein dauerhaft finanziertes "Kommunales Integrationszentrum" notwendig, dass Kompetenzen und Angebote abbildet und absichert. Durch all diese Maßnahmen soll verhindert werden, dass Geflüchtete in soziale oder gesellschaftliche Schieflagen geraten. Die Würde jedes Menschen ist unantastbar, nicht nur jene von Menschen mit europäischem Pass.
 
 ## Seebrücke
 
-Die PIRATEN Dresden fordern die finanzielle, logistische und rechtliche Unterstützung von Vereinen und Initiativen, wie z. B. "Mission Lifeline". Seenotrettung darf nicht kriminalisiert werden. Wer in Not ist, muss gerettet werden. Wer nicht rettet, verabschiedet sich von der Menschlichkeit.
+Die PIRATEN Dresden fordern die finanzielle, logistische und rechtliche Unterstützung von Vereinen und Initiativen, wie z.B. "Mission Lifeline". Seenotrettung darf nicht kriminalisiert werden. Wer in Not ist, muss gerettet werden. Wer nicht rettet, verabschiedet sich von der Menschlichkeit.
 
 ## Sicherer Hafen
 
@@ -396,7 +400,7 @@ Die PIRATEN Dresden bekennen sich vollen Herzens dazu, Dresden als "Sicheren Haf
 
 ## Grundverständnis von Kulturpolitik
 
-Kultur ist mehr als Semperoper und Kulturpalast. Kultur ist überall dort vorhanden, wo Menschen etwas Kreatives entstehen lassen. Folgerichtig müssen in einer Kulturstadt auch Raum und Möglichkeit geboten werden, jegliche Art von Kultur auszuleben, auszuprobieren und umzusetzen. Diese flächendeckende Vielfalt und der Wunsch vieler Menschen, die Kultur in der Stadt stetig zu erweitern, machen eine Kulturstadt aus. Wir wollen jegliche Form von Kultur ermöglichen und den Zugang zu dieser erleichtern. Niemand darf von Kulturangeboten ausgeschlossen werden $-$ alle sollen sich beteiligen können.
+Kultur ist mehr als Semperoper und Kulturpalast. Kultur ist überall dort vorhanden, wo Menschen etwas Kreatives entstehen lassen. Folgerichtig müssen in einer Kulturstadt auch Raum und Möglichkeit geboten werden, jegliche Art von Kultur auszuleben, auszuprobieren und umzusetzen. Diese flächendeckende Vielfalt und der Wunsch vieler Menschen, die Kultur in der Stadt stetig zu erweitern, macht eine Kulturstadt aus. Wir wollen jegliche Form von Kultur ermöglichen und den Zugang zu dieser erleichtern. Niemand darf von Kulturangeboten ausgeschlossen werden $-$ alle sollen sich beteiligen können.
 
 ## Kulturschutzzone
 
@@ -420,7 +424,7 @@ Straßenkunst und Straßenmusik sind eine wundervolle Art, eine lebendige und le
 
 ## Kulturbildung barriere- und kostenfrei gestalten
 
-Die PIRATEN Dresden wollen $-$ parallel zur Schulbildung $-$ die außerschulische kulturelle Bildung insbesondere für Kinder und Jugendliche sichern. Das umfasst alle staatlichen Bildungsmöglichkeiten in Tanz, Theater, Musik, Sport und allen anderen Formen bildender und darstellender Künste. Die individuelle Förderung für die Bildung an privaten Einrichtungen soll im Bedarfsfall ebenfalls möglich sein. Ein erster Schritt in diese Richtung ist der für Kinder und Jugendliche kostenlose Eintritt in alle Museen der Stadt, zumindest an einem Tag in der Woche.
+Die PIRATEN Dresden wollen $-$ parallel zur Schulbildung $-$ die außerschulische kulturelle Bildung insbesondere für Kinder und Jugendliche sichern. Das umfasst alle staatlichen Bildungsmöglichkeiten in Tanz, Theater, Musik, Sport und allen anderen Formen bildender und darstellender Künste. Die individuelle Förderung für die Bildung an privaten Einrichtungen soll im Bedarfsfall ebenfalls möglich sein. Ein erster Schritt in diese Richtung ist der kostenlose Eintritt in alle Museen der Stadt für Kinder und Jugendliche zumindest an einem Tag in der Woche.
 
 # Sport
 
@@ -432,7 +436,7 @@ Ziel der PIRATEN Dresden ist es, die Sportinfrastruktur in gutem Zustand zu erha
 
 Die PIRATEN Dresden fordern, dass E-Sport als offizielle Sportart anerkannt und in die Sportförderrichtlinie aufgenommen wird. Aus wissenschaftlicher Sicht befindet sich der E-Sport bereits heute auf dem Niveau einer traditionellen Sportart. Die unterschiedlichen Spiele weisen eine hohe Komplexität auf und schulen kognitive Fähigkeiten; auch der Aspekt der Fitness gewinnt immer mehr an Bedeutung.
 
-Die PIRATEN Dresden fordern, dass die Stadt eine Vorreiterrolle bei der Einführung eigener E-Sport Stadtligen sowie bei der Veranstaltung von (internationalen) E-Sport-Events einnimmt.
+Die PIRATEN Dresden fordern, dass die Stadt eine Vorreiterrolle bei der Einführung eigener E- Sport Stadtligen sowie bei der Veranstaltung von (internationalen) E-Sport-Events einnimmt.
 
 # Verkehr
 
@@ -440,7 +444,7 @@ Die PIRATEN Dresden fordern, dass die Stadt eine Vorreiterrolle bei der Einführ
 
 Die PIRATEN Dresden werden die DVB AG zur zentralen Mobilitätsdienstleisterin in Dresden ausbauen. Die Taktung der Busse muss erhöht, das Liniennetz verstärkt, die Qualität weiter verbessert und die Mobi-Welt um weitere Sharing-Angebote ausgebaut werden. Hierzu muss die Finanzierung der DVB AG dauerhaft und nachhaltig gesichert sein, damit Investitions- und Betriebsmittel planungsicher zur Verfügung stehen. Hierfür muss neben den abnehmenden Fahrscheineinnahmen (s."0-Euro-Ticket"), den Zuschüssen aus Land und Bund und den Zuwendungen aus den Gewinnen der SachsenEnergie eine weitere Finanzierungssäule für die DVB dauerhaft installiert werden.
 
-Diese weitere Finanzierungsssäule sollte nicht dauerhaft ein Zuschuss aus dem allgemeinen Haushalt sein, da Haushaltsmittel immer alle zwei Jahre wieder neu verhandelt werden und somit der DVB keine echte Planungssicherheit geben können. Eine verlässliche und langfristige Finanzierungssäule wird die sogenannte Nutznießerfinanzierung \[1\] darstellen, bei der von der DVB (mittelbar) Profitierende über Abgaben ihren Beitrag zur ÖPNV-Finanzierung leisten werden (z. B. Arbeitgeber:innen, Parkgebühren).
+Diese weitere Finanzierungsssäule sollte nicht dauerhaft ein Zuschuss aus dem allgemeinen Haushalt sein, da Haushaltsmittel immer alle zwei Jahre wieder neu verhandelt werden und somit der DVB keine echte Planungssicherheit geben können. Eine verlässliche und langfristige Finanzierungssäule wird die sogenannte Nutznießerfinanzierung \[1\] darstellen, bei der von der DVB (mittelbar) Profitierende über Abgaben ihren Beitrag zur ÖPNV-Finanzierung beitragen werden (z.B. Arbeitgeber, Parkgebühren).
 
 ## Förderung des Fahrradverkehrs
 
@@ -454,7 +458,7 @@ Die PIRATEN Dresden fordern:
 
 -   Neben den beiden bereits geplanten Fahrradparkhäusern an den Bahnhöfen ist sicheres und komfortables Fahrradparken flächendeckend einzuführen. Dies bedeutet neben des klassischen Fahrradbügels auch überdachte Abstellmöglichkeiten sowie abschließbare Fahrradboxen. Überall, wo Quellen und Ziele des Radverkehrs sind, muss es Fahrradabstellmöglichkeiten in ausreichender Qualität und Quantität geben.
 
--   Wir fordern Radschnellwege vom Stadtrand in die Innenstadt und zwischen den Stadtteilen. Diese Radschnellwege können baulich abgetrennt sein oder z. B. durch eine "Grüne Welle für Radfahrer" realisiert werden.
+-   Wir fordern Radschnellwege vom Stadtrand in die Innenstadt und zwischen den Stadtteilen. Diese Radschnellwege können baulich abgetrennt sein oder z.B. durch eine "Grüne Welle für Radfahrer" realisiert werden.
 
 -   Wir fordern Investitionen in neue Bauprojekte, die hohe Barrieren für den Radverkehr $-$ und damit die Reisezeit $-$ stark reduzieren. Beispiele hierfür sind eine kreuzungsfreie Überquerung der Stauffenbergallee für einen Radschnellweg zwischen Klotzsche und der Neustadt sowie eine Fahrradbrücke über die Elbe, welche Pieschen/Trachenberge mit der Messe, dem Ostragehege und der Innenstadt/Friedrichstadt verbindet.
 
@@ -496,7 +500,7 @@ Die PIRATEN Dresden streben das Ziel der "Autofreien Äußeren Neustadt" an. Äh
 
 Als erste Schritte in diese Richtung fordern wir:
 
--   Parkverbot in Louisen-, Alaun-, Kamenzer, Rothenburger und Görlitzer Straße sowie am Martin-Luther-Platz.
+-   Parkverbot in Louisen-, Alaun-, Kamenzer, Rothenburger und Görlizer Straße sowie am Martin-Luther-Platz.
 
 -   Einführung von Stellplätzen für Lastenräder/E-Bikes (inkl. Ladesäulen).
 
@@ -510,15 +514,15 @@ Als erste Schritte in diese Richtung fordern wir:
 
 -   Einführung eines elektrischen Quartierbusses zur Anbindung der Parkhäuser in der Peripherie.
 
--   Ausweisung der Parkplätze an den Außengrenzen (z. B. Königsbrücker, Bischofsweg, Bautzner) für Car-Sharing Angebote.
+-   Ausweisung der Parkplätze an den Außengrenzen (z.B. Königsbrücker, Bischofsweg, Bautzner) für Car-Sharing Angebote.
 
 -   Bike-Sharing-Angebot im gesamten Viertel.
 
--   Parkplätze für Schwerbehinderte müssen innerhalb der Neustadt beibehalten und ausgeweitet werden, bis das Gesamtkonzept "Autofreie Neustadt" komplett barrierefrei umgesetzt wurde.
+-   Parkplätze für Schwerbehinderte müssen innehalb der Neustadt beibehalten und ausgeweitet werden, bis das Gesamtkonzept "Autofreie Neustadt" komplett barrierefrei umgesetzt wurde.
 
-## Park & Ride ausbauen
+## Park $\&$ Ride ausbauen
 
-Die PIRATEN Dresden setzen sich für einen Ausbau von Park & Ride-Angeboten in Dresden ein. An allen Pendlerstrecken sind benutzungsfreundliche Parkplätze zu schaffen, die den Umstieg in leistungsfähige öffentliche Nahverkehrsträger sowie auf (Leih-)Fahrräder ermöglichen.
+Die PIRATEN Dresden setzen sich für einen Ausbau von Park $\&$ Ride-Angeboten in Dresden ein. An allen Pendlerstrecken sind benutzungsfreundliche Parkplätze zu schaffen, die den Umstieg in leistungsfähige öffentliche Nahverkehrsträger sowie auf (Leih-) Fahrräder ermöglichen.
 
 ## Bessere Radumleitungen
 
@@ -526,7 +530,7 @@ Die PIRATEN Dresden setzen sich für eine alltags- und familientaugliche Radwege
 
 ## "Kostenloses" Parken ist kein Grundrecht
 
-"Kostenloses" Parken von Autos im öffentlichen Raum ist in den letzten Jahrzehnten derart weitverbreitet gewesen, dass viele Autobesitzende glauben, ein Auto kostenlos abzustellen wäre ein Grundrecht. Dies ist aber nicht so, denn es gibt kein Grundrecht auf kostenloses Parken! Der öffentliche Raum gehört uns allen $-$ und alle müssen für diesen Raum bezahlen.
+"Kostenloses" Parken von Autos im öffentlichen Raum ist in den letzten Jahrzehnten derart weit verbreitet gewesen, dass viele Autobesitzende glauben, ein Auto kostenlos abzustellen wäre ein Grundrecht. Dies ist aber nicht so, denn es gibt kein Grundrecht auf kostenloses Parken! Der öffentliche Raum gehört uns allen $-$ und alle müssen für diesen Raum bezahlen.
 
 Die PIRATEN Dresden fordern, dass Parken im öffentlichen Raum grundsätzlich kostenpflichtig sein muss. Hierfür soll ein Mix aus Anwohnerparkzonen und Parkraumbewirtschaftung sorgen, welcher natürlich Elemente der sozialen Abfederung sowie Härtefallregelungen enthalten muss.
 
@@ -544,11 +548,11 @@ Die PIRATEN Dresden fordern, das Angebot an Leih-Lastenrädern im Rahmen der Mob
 
 ## Bike-Sharing-Konzepte
 
-Die PIRATEN Dresden unterstützen Bike-Sharing-Konzepte, die datensparsam und mit möglichst geringem technischem Aufwand nutzbar sind. Anbieter, deren Geschäftsmodell neben dem eigentlichen Fahrradverleih auf dem Handel mit den Nutzungsdaten basiert, lehnen wir ab. Wünschenswert ist der Ausbau von Lastenräder-Leih-Möglichkeiten.
+Die PIRATEN Dresden unterstützen Bike-Sharing-Konzepte, die datensparsam und mit möglichst geringem technischen Aufwand nutzbar sind. Anbieter, deren Geschäftsmodell neben dem eigentlichen Fahrradverleih auf dem Handel mit den Nutzungsdaten basiert, lehnen wir ab. Wünschenswert ist der Ausbau von Lastenräder-Leih-Möglichkeiten.
 
 ## Radbügel jetzt
 
-Die PIRATEN Dresden setzen sich dafür ein, dass in dicht besiedelten Gebieten (z. B. Äußeren und Inneren Neustadt, Hechtviertel, Löbtau, Pieschen, Striesen, Blasewitz) alle Wohn- und Geschäftsadressen in einem Abstand von höchstens 50 m Fahrradabstellanlagen (z. B. Radbügel) in ausreichender Anzahl vorhanden sein müssen.
+Die PIRATEN Dresden setzen sich dafür ein, dass in dicht besiedelten Gebieten (z.B. Äußeren und Inneren Neustadt, Hechtviertel, Löbtau, Pieschen, Striesen, Blasewitz) alle Wohn- und Geschäftsadressen in einem Abstand von höchstens 50m Fahrradabstellanlagen (z.B. Radbügel) in ausreichener Anzahl vorhanden sein müssen.
 
 ## Interkommunale Zusammenarbeit im Radverkehr
 
@@ -560,13 +564,13 @@ Die PIRATEN Dresden fordern eine Zebrastreifen-Offensive: An möglichst vielen S
 
 ## Carsharing
 
-Die PIRATEN Dresden fordern eine konsequente, aber durchdachte Förderung von Carsharing- Angeboten. Das primäre Ziel von Carsharing ist eine Reduktion der Gesamtanzahl an Pkw und gleichzeitig eine Verlagerung des heutigen Autoverkehrs auf umweltfreundlichere Verkehrsarten. Das geliehene Auto ist dann die ideale Ergänzung, um gelegentliche Autofahrten zu ermöglichen. Daher sollten neue Carsharing-Stationen in der Nähe von Haltestellen (Mobilitätsstation) bzw. in der Nähe der Wohnorte entstehen.
+Die PIRATEN Dresden fordern eine konsequente aber durchdachte Förderung von Carsharing- Angeboten. Das primäre Ziel von Carsharing ist eine Reduktion der Gesamtanzahl an Pkw und gleichzeitig eine Verlagerung des heutigen Autoverkehrs auf umweltfreundlichere Verkehrsarten. Das geliehene Auto ist dann die ideale Ergänzung, um gelegentliche Autofahrten zu ermöglichen. Daher sollten neue Carsharing-Stationen in der Nähe von Haltestellen (Mobilitätsstation) bzw. in der Nähe der Wohnorte entstehen.
 
 Bei Free-Floating Carsharing-Modellen muss deren Auswirkung auf den Gesamt-Autoverkehr kritisch hinterfragt werden. Es ist nicht Ziel des Carsharing, in Konkurrenz zu Fuß-, Rad- und ÖPN- Verkehr zu treten. Für Free-Floating Modelle sollten keine Bonifikationen wie Parkgebührreduktion oder Parkplatzsicherheit gewährt werden.
 
 ## Stadtbahn
 
-Die PIRATEN Dresden begrüßen den Bau einer Straßenbahnlinie entlang der völlig überlasteten Buslinie 61 von Löbtau bis Strehlen. Außerdem befürworten wir die geplante Linie von Johannstadt bis Plauen sowie eine mögliche Linienverlängerung der Linie 11 bis Weissig. Bei allen Vorhaben ist aber darauf zu achten, dass durch den Gleisbau das Stadtbild und die Funktionalität des Stadtraums nicht eingeschränkt werden. Ziel ist nicht, 20 Meter breite Schneisen durch Gründerzeitviertel zu schlagen, sondern diese Viertel mit einer Straßenbahn in das ÖPNV- Netz zu integrieren.
+Die PIRATEN Dresden begrüßen den Bau einer Straßenbahnlinie entlang der völlig überlasteten Buslinie 61 von Löbtau bis Strehlen. Außerdem befürworten wir die geplante Linie von Johanstadt bis Plauen sowie eine mögliche Linienverlängerung der Linie 11 bis Weissig. Bei allen Vorhaben ist aber darauf zu achten, dass durch den Gleisbau das Stadtbild und die Funktionalität des Stadtraums nicht eingeschränkt wird. Ziel ist nicht, 20 Meter breite Schneisen durch Gründerzeitviertel zu schlagen, sondern diese Viertel mit einer Straßenbahn in das ÖPNV- Netz zu integrieren.
 
 Beim weiteren Ausbau des Stadtbahnnetzes sind auch neue Ideen ergebnisoffen zu prüfen (Oberleitungsbusse, Monorail, Seilbahn, autonom fahrende Busse, Wassertaxis, Amphibienbusse, \...).
 
@@ -586,7 +590,7 @@ Die PIRATEN Dresden setzen sich für die Einrichtung von weiteren Quartierbuslin
 
 ## 0-Euro-Ticket
 
-Die PIRATEN Dresden setzen sich für die Einführung eines für die Nutzenden kostenlosen, d.h. umlagefinanzierten öffentlichen Personen-Nahverkehrs (ÖPNV) ein. Ein solches "0-Euro-Ticket" sehen wir zusammen mit einem gut ausgebauten ÖPNV als festen Bestandteil der Daseinsvorsorge an. Solch ein ÖPNV garantiert, dass auch einkommensschwache Menschen die Möglichkeit zu mehr gesellschaftlicher Teilhabe erhalten. Außerdem verlagert ein solch attraktiver ÖPNV viel Kfz-Verkehr in Bus und Bahn.
+Die PIRATEN Dresden setzen sich für die Einführung eines für die Nutzenden kostenlosen, d.h umlagefinanzierten Öffentlichen Personen-Nahverkehrs (ÖPNV) ein. Ein solches "0-Euro-Ticket" sehen wir zusammen mit einen gut ausgebauten ÖPNV als festen Bestandteil der Daseinsvorsorge an. Solch ein ÖPNV garantiert, dass auch einkommensschwache Menschen die Möglichkeit zu mehr gesellschaftlicher Teilhabe erhalten. Außerdem verlagert ein solch attraktiver ÖPNV viel Kfz-Verkehr in Bus und Bahn.
 
 Die PIRATEN Dresden werden all ihren Einfluss über die DVB und den VVO einsetzen, dass das heutige 49-Euro-Ticket schrittweise verbilligt und schlussendlich zu einem 0-Euro-Ticket wird.
 
@@ -594,7 +598,7 @@ Die PIRATEN Dresden werden all ihren Einfluss über die DVB und den VVO einsetze
 
 ## Keine weiteren Hypermärkte in Dresden (Globus)
 
-Die Piratenpartei Dresden setzt sich für eine nachhaltige und lebenswerte Stadt der kurzen Wege ein. Wohnen, Arbeiten, Lernen, Einkaufen und Freizeit sollten in allen Stadtteilen komfortabel, ökologisch, preiswert, sicher und schnell miteinander kombinierbar sein, vorzugsmäßig zu Fuß, mit dem Rad oder mit dem ÖPNV. Hypermärkte für den Einzelhandel hingegen zementieren die Abhängigkeit vom Auto. Wertvolle Kaufkraft wird dadurch aus den Stadtteilen gezogen und dadurch eine Zentrierung des Handels und einen Autoverkehrsanstieg weiter beschleunigt. Durch die Abnahme des dezentralen Einzelhandels wird der Effekt verstärkt und immer mehr Menschen würden ihre Einkäufe zentral erledigen. Das führt letzten Endes zu einer deutlich reduzierten Lebensqualität in den Stadtteilen und insbesondere zu einer Verschlechterung der Situation für kleine inhaber:innengeführte Läden. Deshalb sind wir dagegen, dass weitere Hypermärkte in unserer Stadt eröffnet werden. Wir setzen uns stattdessen für eine Stadtplanung ein, welche kurze Wege fördert und die Lebensqualität der Bewohner:innen verbessert.
+Die Piratenpartei Dresden setzt sich für eine nachhaltige und lebenswerte Stadt der kurzen Wege ein. Wohnen, Arbeiten, Lernen, Einkaufen und Freizeit sollte in allen Stadtteilen komfortabel, ökologisch, preiswert, sicher und schnell miteinander kombinierbar sein ? vorzugsmäßig zu Fuß, mit dem Rad oder mit dem ÖPNV. Hypermärkte für den Einzelhandel hingegen zementieren die Abhängigkeit vom Auto. Wertvolle Kaufkraft wird dadurch aus den Stadtteilen gezogen und dadurch eine Zentrierung des Handels und ein Autoverkehrsanstieg weiter beschleunigt. Durch die Abnahme des dezentralen Einzelhandels wird der Effekt verstärkt und immer mehr Menschen würden ihre Einkäufe zentral erledigen. Das führt letzen Endes zu einer deutlich reduzieren Lebensqualität in den Stadtteilen und insbesondere zu einer Verschlechterung der Situation für kleine inhaber:innengeführte Läden. Deshalb sind wir dagegen, dass weitere Hypermärkte in unserer Stadt eröffnet werden. Wir setzen uns stattdessen für eine Stadtplanung ein, welche kurze Wege fördert und die Lebensqualität der Bewohner:innen verbessert.
 
 Spezifisch für den geplanten Hypermarkt zwischen Bremer- und Hamburger Straße und der weiterhin bestehenden Pläne eines (bzw. mehrerer) Hypermärkte im Umfeld des Alten Leipziger Bahnhofs bedeutet das:
 
@@ -618,7 +622,7 @@ Die PIRATEN Dresden fordern, die Stellplatzsatzung dahingehend zu ändern, dass 
 
 ## Elbquerung bei Pieschen
 
-Die PIRATEN Dresden setzen sich dafür ein, dass eine neue Elbquerung zwischen Ostragehege (Messe) und Pieschen/Mickten für Fuß- und Radverkehr errichtet wird. Bis zu deren Realisierung soll eine Fährverbindung eingerichtet werden.
+Die PIRATEN Dresden setzen sich dafür ein, dass eine neue Elbquerung zwischen Ostragehege (Messe) und Pieschen/Mickten für Fuß- und Radverkehr errichtet wird. Bis zu deren Realisierung, soll eine Fährverbindung eingerichtet werden.
 
 ## Kleingartenanlagen integrieren statt verlagern
 
@@ -626,15 +630,15 @@ Die PIRATEN Dresden verstehen die Klein- und Schrebergartenanlagen als integrale
 
 ## "Öffentlicher Service" $-$ Trinkbrunnen, WLAN-Hotspots und Toiletten
 
-Die PIRATEN Dresden fordern, kostenfreie Serviceleistungen wie Trinkbrunnen, WLAN-Hotspots und Toiletten vermehrt im öffentlichen Raum zu platzieren. Darüber hinaus möchten die Dresdner PIRATEN die Idee des "Öffentlichen Service" im Sinne einer benutzbaren Stadt ausbauen. So können z. B. Freistrom-Litfaßsäulen, öffentliche Fahrradpumpen oder öffentliche Pizzabacköfen das Leben bereichern. Die Idee des "Öffentlichen Service" ist auch bei allen Bebauungsplänen mitzudenken und Elemente daraus umzusetzen.
+Die PIRATEN Dresden fordern, kostenfreie Serviceleistungen wie Trinkbrunnen, WLAN-Hotspots und Toiletten vermehrt im öffentlichen Raum zu platzieren. Darüber hinaus möchten die Dresdner PIRATEN die Idee des "Öffentlichen Service" im Sinne einer benutzbaren Stadt ausbauen. So können z.B. Freistrom-Litfaßsäulen, öffentliche Fahrradpumpen oder öffentliche Pizzabacköfen das Leben bereichern. Die Idee des "Öffentlichen Service" ist auch bei allen Bebauungsplänen mitzudenken und Elemente daraus umzusetzen.
 
 ## Königsbrücker Straße
 
-Ziel der PIRATEN Dresden ist eine städtebauliche Aufwertung der gesamten Königsbrücker Straße als einen funktionierenden und mit Leben gefüllten Stadtraum. Vom Albertplatz bis zur Stauffenbergallee soll die Königsbrücker Straße als Boulevard eine hohe Aufenthaltsqualität aufweisen und damit ihre Funktion als belebtes Zentrum zwischen Hechtviertel und der Neustadt zurückgewinnen. Der Fokus der Sanierung muss $-$ wie bei jedem Stadtzentrum $-$ auf den Bedürfnissen des Fuß-, Rad- und öffentlichen Verkehrs liegen. Dafür muss der Anteil des Kfz (Durchgangs-)Verkehrs deutlich reduziert werden. Mit der Waldschlößchenbrücke sowie der Hansastraße stehen dieser Verkehrsart ausreichend gute Verbindungen in den Dresdner Norden zur Verfügung. Die PIRATEN Dresden setzen sich daher weiterhin für eine Sanierung im Bestand ein! Die momentan bestehende Planung, welche auf 2/3 der Königsbrücker Straße einen vierspurigen Ausbau (zwei Kfz- und zwei Bahnspuren) vorsieht, lehnen wir ab.
+Ziel der PIRATEN Dresden ist eine städtebauliche Aufwertung der gesamten Königsbrücker Straße als ein funktionierender und mit Leben gefüllter Stadtraum. Vom Albertplatz bis zur Stauffenbergallee soll die Königsbrücker Straße als Boulevard eine hohe Aufenthaltsqualität aufweisen und damit ihre Funktion als belebtes Zentrum zwischen Hechtviertel und der Neustadt zurückgewinnen. Der Fokus der Sanierung muss $-$ wie bei jedem Stadtzentrum $-$ auf den Bedürfnissen des Fuß-, Rad- und öffentlichen Verkehrs liegen. Dafür muss der Anteil des Kfz (Durchgangs-)Verkehrs deutlich reduziert werden. Mit der Waldschlößchenbrücke sowie der Hansastraße stehen dieser Verkehrsart ausreichend gute Verbindungen in den Dresdner Norden zur Verfügung. Die PIRATEN Dresden setzen sich daher weiterhin für eine Sanierung im Bestand ein! Die momentan bestehende Planung, welche auf 2/3 der Königsbrücker Straße einen vierspurigen Ausbau (zwei Kfz- und zwei Bahnspuren) vorsieht, lehnen wir ab.
 
 ## Boulevard Kesselsdorfer Straße
 
-Mit der Vollendung der Zentralhaltestelle Kesselsdorfer Straße (Haltestelle Tharandter Str./Löbtau Center) und der Sanierung des Abschnitts bis zur Wernerstraße ist es gelungen, einen Großteil des Durchgangsverkehrs aus dem Ortsteilzentrum herauszuhalten und über die Coventry-Straße umzuleiten. Dies ermöglicht nun eine städtebaulich hochwertige Sanierung des weiteren Verlaufs der Kesselsdorfer Straße in Richtung Westen: Der einstige Boulevardcharakter der Kesselsdorfer Straße kann wiederhergestellt werden! Breite Gehwege mit großen Bäumen bieten Aufenthaltsqualität und steigern die Attraktivität des lokalen Einzelhandels und der Gastronomie. Der Radverkehr kann sicher über eine fast autofreie und geschwindigkeitsreduzierte Straße geführt werden. Die Straßenbahnen können verzögerungsfrei über die Kesselsdorfer Straße fahren und an barrierefreien Haltestellen halten. Die Grünfläche vor dem Neuen Annenfriedhof kann erhalten und aufgewertet werden. Die PIRATEN Dresden fordern, die Kesselsdorfer auf ihrer gesamten Länge bald wieder als Boulevard erstrahlen zu lassen.
+Mit der Vollendung der Zentralhaltestelle Kesselsdorfer Straße (Haltestelle Tharandter Str./Löbtau Center) und der Sanierung des Abschnitts bis zur Wernerstraße ist es gelungen, eine Großteil des Durchgangsverkehrs aus dem Ortsteilzentrum herauszuhalten und über die Coventry-Straße umzuleiten. Dies ermöglicht nun eine städtebaulich hochwertige Sanierung des weiteren Verlaufs der Kesselsdorfer Straße in Richtung Westen: Der einstige Boulevardcharakter der Kesselsdorfer Straße kann wiederhergestellt werden! Breite Gehwege mit großen Bäumen bieten Aufenthaltsqualität und steigern die Attraktivität des lokalen Einzelhandels und der Gastronomie. Der Radverkehr kann sicher über eine fast autofreie und geschwindigkeitsreduzierte Straße geführt werden. Die Straßenbahnen können verzögerungsfrei über die Kesselsdorfer Straße fahren und an barrierefreien Haltestellen halten. Die Grünfläche vor dem Neuen Annenfriedhof kann erhalten und aufgewertet werden. Die PIRATEN Dresden fordern, die Kesselsdorfer auf ihrer gesamten Länge bald wieder als Boulevard erstrahlen zu lassen.
 
 ## Elektronische Werbetafeln
 
@@ -658,7 +662,7 @@ Spielplätze sind eine wichtige Investition in die Zukunft und müssen in gepfle
 
 ## Barrierefreie Stadt
 
-Die PIRATEN Dresden wollen eine Gesellschaft, an der alle teilhaben können. Deshalb sind Sprach-, Seh-, Hör- und materielle Barrieren abzubauen. Ob abgesenkte Bordsteine oder Untertitel bei Ratssitzungen, das Streben nach Barrierefreiheit ist bei jedem unserer Programmpunkte zu beachten.
+Die PIRATEN Dresden wollen eine Gesellschaft an der alle teilhaben können. Deshalb sind Sprach-, Seh-, Hör- und materielle Barrieren abzubauen. Ob abgesenkte Bordsteine oder Untertitel bei Ratssitzungen, das Streben nach Barrierefreiheit ist bei jedem unserer Programmpunkte zu beachten.
 
 ## Studentisches Wohnen ermöglichen
 
@@ -666,25 +670,25 @@ Die PIRATEN Dresden fordern, dass studentisches Wohnen bezahlbar zur Verfügung 
 
 ## Kooperatives Baulandmodell wiederherstellen
 
-Die PIRATEN Dresden fordern, im Kooperativen Baulandmodell wieder den ursprünglichen Anteil an zwingend zu realisierenden Sozialwohnungen von 30% festzuschreiben. Zusätzlich soll die Bindungsfrist nicht 15, sondern mindestens 20 Jahre betragen.
+Die PIRATEN Dresden fordern, im Kooperativen Baulandmodell wieder den ursprünglichen Anteil an zwingend zu realisierenden Sozialwohnungen von 30% festzuschreiben. Zusätzlich soll die Bindungsfrist nicht 15 sondern mindestens 20 Jahre betragen.
 
 ## Gentrifizierung entgegenwirken
 
-Die PIRATEN Dresden fordern, Gentrifizierungseffekte in Wohnquartieren frühzeitig zu ermitteln und wirksam z. B. durch Einführung von Millieuschutzsatzungen zu verhindern. Darüber hinaus ist eine gezielte Degentrifizierung anzustreben.
+Die PIRATEN Dresden fordern, Gentrifizierungseffekte in Wohnquartieren frühzeitig zu ermitteln und wirksam z.B. durch Einführung von Millieuschutzsatzungen zu verhindern. Darüber hinaus ist eine gezielte Degentrifizierung anzustreben.
 
 ## Partizipativer Ansatz bei der Stadtraumentwicklung
 
-Bei großflächigen Stadt-Neu-Entwicklungen $-$ d. h. dem Entstehen ganzer Stadtquartiere $-$ sollte nicht ein Investor oder allein die Stadt die Entwicklungsziele und deren planerische Umsetzung "Top-Down" bestimmen. Vielmehr muss dieser Stadtraum, der später von Menschen akzeptiert und genutzt werden soll, auch von diesen Menschen "Bottom-Up" mit geplant werden. Daher sind in einem partizipativen Prozess zunächst die Notwendigkeiten und Wünsche aller möglichen Akteure (Kommune, Investoren, Genossenschaften, Vereine, Baugemeinschaften, Handwerk, Gewerbe, Einzelpersonen etc.) zu erfassen und in die Planungen zu integrieren. Diese Präferenzen sind in einem nächsten Schritt planerisch und rechtlich zu regeln. Dann erst erfolgt die Umsetzung.
+Bei großflächigen Stadt-Neu-Entwicklungen $-$ d.h. dem Entstehen ganzer Stadtquartiere $-$ sollte nicht ein Investor oder allein die Stadt die Entwicklungsziele und deren planerische Umsetzung "Top-Down" bestimmen. Vielmehr muss dieser Stadtraum, der später von Menschen akzeptiert und genutzt werden soll, auch von diesen Menschen "Bottom-Up" mit geplant werden. Daher sind in einem partizipativen Prozess zunächst die Notwendigkeiten und Wünsche aller möglichen Akteure (Kommune, Investoren, Genossenschaften, Vereine, Baugemeinschaften, Handwerk, Gewerbe, Einzelpersonen, etc.) zu erfassen und in die Planungen zu integrieren. Diese Präferenzen sind in einem nächsten Schritt planerisch und rechtlich zu regeln. Dann erst erfolgt die Umsetzung.
 
-Ein solches Vorgehen wird stark vereinfacht, wenn zumindest Teile der Grundstücksfläche in kommunaler Hand sind. Hierzu soll die Kommune vorausschauend Grunderwerb tätigen bzw. von ihrem Vorkaufsrecht Gebrauch machen.
+Ein solches Vorgehen wird stark vereinfacht, wenn zumindest Teile der Grundstücksfläche in kommunaler Hand sind. Hierzu soll die Kommune vorrausschauend Grunderwerb tätigen bzw. von ihrem Vorkaufsrecht Gebrauch machen.
 
 ## Progressive Liegenschaftspolitik
 
-Die PIRATEN Dresden fordern, dass die Kommune ihre Verantwortung für alle Menschen auch in der Liegenschaftspolitik wahrnimmt und mittels des kommunalen Planungsrechts durchsetzt. Hierzu dienen z. B. die gemeinwohlorientierte Vergabe von Grundstücken der öffentlichen Hand (auch Erbpacht), die gezielte Bodenbevorratung mit Zwischennutzung sowie ein verstärktes Nutzen des kommunalen Vorkaufsrechts.
+Die PIRATEN Dresden fordern, dass die Kommune ihre Verantwortung für alle Menschen auch in der Liegenschaftspolitik wahrnimmt und mittels des kommunalen Planungsrechts durchsetzt. Hierzu dienen z.B. die gemeinwohlorientierte Vergabe von Grundstücken der öffentlichen Hand (auch Erbpacht), die gezielte Bodenbevorratung mit Zwischennutzung sowie ein verstärktes Nutzen des kommunalen Vorkaufsrechts.
 
 ## Zielvorgaben für Bebauungsplan "Leipziger Vorstadt"
 
-Die PIRATEN Dresden setzen sich dafür ein, dass das Gebiet der "Leipziger Vorstadt" (zwischen Leipziger-/Erfurter Straße und Bahndamm) zu einem Wohn-, Kultur- und Lebensquartier entwickelt wird. Die bestehenden Nutzungen wie z. B. der "Alte Schlachthof", "Blaue Fabrik" und der "Wagenplatz" müssen integriert werden. Der "Alte Leipziger Bahnhof" ist in seiner Substanz zu erhalten und einer neuen Nutzung, z. B. als Stadtteilzentrum, zuzuführen.
+Die PIRATEN Dresden setzen sich dafür ein, dass das Gebiet der "Leipziger Vorstadt" (zwischen Leipziger-/Erfurter Straße und Bahndamm) zu einem Wohn-, Kultur- und Lebensquartier entwickelt wird. Die bestehenden Nutzungen wie z.B. der "Alte Schlachthof", "Blaue Fabrik" und der "Wagenplatz" müssen integriert werden. Der "Alte Leipziger Bahnhof" ist in seiner Substanz zu erhalten und einer neuen Nutzung, z.B. als Stadtteilzentrum, zuzuführen.
 
 Beim Wohnungsbau ist auf eine soziale Durchmischung zu achten. Hierbei ist ein Anteil von mindestens 30% Prozent des Wohnraums mit Sozialbindung umzusetzen.
 
@@ -732,7 +736,7 @@ Die Piratenpartei Dresden befürwortet grundsätzlich die "Bettensteuer" (Beherb
 
 -   Im Vergleich zu anderen Städten ähnlicher Größe sind die Übernachtungskosten in Dresden auch mit Bettensteuer sehr günstig. Eine große Auswirkung der Bettensteuer auf die Anzahl der Übernachtungen gibt es daher nicht.
 
-Die Piraten fordern jedoch eine Vereinfachung der bürokratischen Abläufe. Ebenfalls muss für die Bettensteuer ein spürbarer Vorteil für die Besuchenden eingeräumt werden, sodass die Abgabe als positiv angesehen wird (z. B. Angebote der DVB oder Rabatt in Museen/Schwimmbädern).
+Die Piraten fordern jedoch eine Vereinfachung der bürokratischen Abläufe. Ebenfalls muss für die Bettensteuer ein spürbarer Vorteil für die Besuchenden eingeräumt werden, sodass die Abgabe als positiv angesehen wird (z.B. Angebote der DVB oder Rabatt in Museen/Schwimmbädern).
 
 ## Bodenspekulation eindämmen $-$ Grundsteuer C einführen
 
@@ -740,9 +744,9 @@ Die Grundsteuerreform ermöglicht den Kommunen, eine neue Grundsteuer auf spekul
 
 \[1\] `https://kommunal.de/grundsteuer-c-bedeutung-wo-eingefuehrt`
 
-## Wirtschaftsförderung für Ideenschmieden, Start-ups und Zukunftsindustrien
+## Wirtschaftsförderung für Ideenschmieden, Start-Ups und Zukunftsindustrien
 
-Die PIRATEN Dresden sehen die unkommerzielle/kommerzielle Kunst- und Kreativwirtschaft, die Start-up-Szene sowie die (industrielle) Forschung mit ihren Spin-Off's als essenziell für die Zukunft unserer Stadt an. Hier gilt es, die generellen Rahmenbedingungen zu schaffen, damit Kreativität angezogen und gehalten wird. Diese Rahmenbedingungen sollen auch aktiv seitens der Wirtschaftsförderung begleitet und gefördert werden.
+Die PIRATEN Dresden sehen die unkommerzielle/kommerzielle Kunst- und Kreativwirtschaft, die Start-Up-Szene sowie die (industrielle) Forschung mit ihren Spin-Off's als essentiell für die Zukunft unserer Stadt an. Hier gilt es die generellen Rahmenbedingungen zu schaffen, damit Kreativität angezogen und gehalten wird. Diese Rahmenbedingungen sollen auch aktiv auch seitens der Wirtschaftsförderung begleitet und gefördert werden.
 
 ## Städtische Unternehmen
 
@@ -764,13 +768,13 @@ Position der PIRATEN Dresden zum schuldenfreien Haushalt:
 
 ## Tierschutz bei Pferdefuhrwerken
 
-Die PIRATEN Dresden fordern, Pferde-Kutschfahrten grundsätzlich zu untersagen. Sollte sich für diese Position keine politische Mehrheit finden, so fordern die PIRATEN Dresden, dass zumindest die Bedingungen für Kutschpferde in der Innenstadt deutlich zu verbessern sind. Die Tiere müssen z. B. über Pausenunterstände auf weichem Boden, Sonnen-/Regenschutz, ausreichend Wasser und Nahrung sowie über eine begrenzte "Arbeitszeit" verfügen, um vor tierwohlgefährdender Ausnutzung geschützt zu werden. Kutschbetrieben, die diese Regeln nicht einhalten, müssen Kutschfahrten untersagt werden.
+Die PIRATEN Dresden fordern, Pferde-Kutschfahrten grundsätzlich zu untersagen. Sollte sich für diese Position keine politische Mehrheit finden, so fordern die PIRATEN Dresden, dass zumindest die Bedingungen für Kutschpferde in der Innenstadt deutlich zu verbessern sind. Die Tiere müssen z.B. über Pausenunterstände auf weichem Boden, Sonnen-/Regenschutz, ausreichend Wasser und Nahrung sowie über eine begrenzte "Arbeitszeit" verfügen, um vor tierwohlgefährdender Ausnutzung geschützt zu werden. Kutschbetrieben, die diese Regeln nicht einhalten, müssen Kutschfahrten untersagt werden.
 
 ## Zoo der Zukunft
 
 Die PIRATEN Dresden bekennen sich zu dem Grundsatz, dass Tiere nicht zum Wohlgefallen des Menschen ausgenutzt werden dürfen. Daher streben wir einen Zoo gänzlich ohne Tiere an.
 
-Ein solcher 'Zoo der Zukunft' hat den Auftrag, die Wichtigkeit des Respekts vor der Natur und den Erhalt der Artenvielfalt sowohl im eigenen (persönlichen) Umfeld als auch im (weit) größeren Rahmen zu fördern. Um dieses Ziel zu erreichen, sind z. B. (interaktive) Lehrpfade und gezielte didaktische Angebote (z. B. 'Schule im Zoo') weit besser geeignet als das bloße Anschauen von eingesperrten Tieren.
+Ein solcher 'Zoo der Zukunft' hat den Auftrag, die Wichtigkeit des Respekts vor der Natur und den Erhalt der Artenvielfalt sowohl im eigenen (persönlichen) Umfeld als auch im (weit) größeren Rahmen zu fördern. Um dieses Ziel zu erreichen, sind z.B. (interaktive) Lehrpfade und gezielte didaktische Angebote (z.B. 'Schule im Zoo') weit besser geeignet, als dass bloße Anschauen von eingesperrten Tieren.
 
 Um das Ziel eines tierfreien Zoos zu erreichen, muss der Zoo zunächst sämtliche Nachzucht einstellen. Die dadurch freiwerdenen Kapazitäten können für eine Übergangszeit als Auffangstation für sonst nicht mehr vermittelbare oder auswildbare Tiere (Sancturary) genutz werden.
 
@@ -798,7 +802,7 @@ Die PIRATEN Dresden lehnen einen generellen Kastrationszwang für Hauskatzen ab.
 
 Der Ortsverband der Neustadtpiraten hat ein ergänzendes Wahlprogramm aufgestellt. Hierbei wurde der Schwerpunkt auf Neustadtspezifische Themen gesetzt. Das Wahlprogramm der Neustadtpiraten ist vom Kreisverband übernommen worden und gilt somit gesamtstädtisch für die Wahlperiode 2024 bis 2029.
 
-## Bürgerbeteiligung, Einwohnerversammlungen, Workshops, \...
+## Bürgerbeteiligung, Einwohnerversammlungen, Workshops, \... 
 
 1.  Die Neustadtpiraten wirken im Stadtbezirksbeirat und im Stadtrat darauf hin, dass grundsätzlich, im Rahmen einer umfassenden Bürgerbeteiligung, bei wichtigen Themen des Stadtteils Workshops und/oder Einwohnerversammlungen stattfinden müssen. Die Ergebnisse dieser Veranstaltungen sind im weiteren Prozess zu berücksichtigen und die Art dieser Berücksichtigung ist öffentlich zu dokumentieren.
 
@@ -820,17 +824,17 @@ Auf dem Weg hin zur Autofreien Neustadt ist die Umwandlung der Timaeus- und Tals
 
 ## Quartier Jägerpark
 
-Wir fordern eine Integration des Gebiets Jägerpark in die städtischen Entwicklungskonzepte. Dies beinhaltet u.a. die ÖPNV-Anbindung, den Breitbandanschluss sowie die Weiterentwicklung als Teilgebiet der Neustadt. Die lokalen Akteure vor Ort (z. B. Borea, 19. Grundschule) sind in diesen Prozess mit einzubeziehen.
+Wir fordern eine Integration des Gebiets Jägerpark in die städtischen Entwicklungskonzepte. Dies beinhaltet u.a. die ÖPNV-Anbindung, den Breitbandanschluss sowie die Weiterentwicklung als Teilgebiet der Neustadt. Die lokalen Akteure vor Ort (z.B. Borea, 19. Grundschule) sind in diesen Prozess mit einzubeziehen.
 
 Insbesondere nach Rückkauf von VONOVIA-Wohnungen in dem Gebiet muss die Stadt eine städtebauliche Qualitätsinitiative starten.
 
 ## Entwicklung Altes Postgelände
 
-Wir sprechen uns dafür aus, das Alte Postgelände in seiner Gesamtheit als städtebauliche Erweiterung der Äußeren Neustadt zu begreifen und einer öffentlichen Nutzung zuzuführen. Denkbar wäre z. B. eine Schule in Kombination mit einem Jugend- und Freizeitzentrum. Das jetzige Bürogebäude könnte als "Inkubator" oder als "Kreativhaus" genutzt werden.
+Wir sprechen uns dafür aus, das Alte Postgelände in seiner Gesamtheit als städtebauliche Erweiterung der Äußeren Neustadt zu begreifen und einer öffentlichen Nutzung zuzuführen. Denkbar wäre z.B. eine Schule in Kombination mit einem Jugend- und Freizeitzentrum. Das jetzige Bürogebäude könnte als "Inkubator" oder als "Kreativhaus" genutzt werden.
 
 ## "Putzi"-Gelände
 
-Wir wollen, dass der zurzeit leer stehende Platz auf dem "Putzi"-Gelände für die Öffentlichkeit zugänglich gemacht wird. Die leer stehenden Villen eignen sich zur Zwischennutzung als Wächterhäuser. Langfristig sind kulturelle Nutzungen bzw. die Einrichtung eines selbstverwalteten Jugendzentrums denkbar. Die Betonfläche vor dem Fabrikgebäude eignet sich als Kleinpark mit Großgrün sowie Spiel- und Sportplatz.
+Wir wollen, dass der zur Zeit leerstehende Platz auf dem "Putzi"-Gelände für die Öffentlichkeit zugänglich gemacht wird. Die leerstehenden Villen eignen sich zur Zwischennutzung als Wächterhäuser. Langfristig sind kulturelle Nutzungen bzw. die Einrichtung eines selbstverwalteten Jugendzentrums denkbar. Die Betonfläche vor dem Fabrikgebäude eignet sich als Kleinpark mit Großgrün sowie Spiel- und Sportplatz.
 
 ## Westerweiterung Alaunplatz
 
@@ -842,9 +846,9 @@ Die Neustadtpiraten sprechen sich gegen ein generelles Grillverbot im Alaunpark 
 
 ## S-Bahn-Haltepunkt Bischofsplatz und Umgestaltung
 
-Wir unterstützen die Umgestaltung des Bischofplatzes, welche jetzt nach dem Bau des S-Bahnhaltepunktes Bischofsplatz dringender denn je erfolgen muss. Hierbei ist auf eine Steigerung der Aufenthaltsqualität innerhalb einer Gesamtkonzeption (Geschäfte, Cafés, Dienstleistung, Carsharing, Fahrradabstellanlagen) Wert zu legen. Der Fokus der baulichen Umgestaltung muss auf der Benutzbarkeit des Platzes als öffentlicher Raum liegen. Hierzu gehören neben einer sicheren Überquerbarkeit des Bischofsplatzes für Fußgehende und Radfahrende auch eine autofreie Nutzung des Straßenraums der Conrad- und Eschenstraße.
+Wir unterstützen die Umgestaltung des Bischofplatzes, welche jetzt nach dem Bau des S-Bahn Haltepunktes Bischofsplatz dringender denn je erfolgen muss. Hierbei ist auf eine Steigerung der Aufenthaltsqualität innerhalb einer Gesamtkonzeption (Geschäfte, Cafés, Dienstleistung, Carsharing, Fahrradabstellanlagen) Wert zu legen. Der Fokus der baulichen Umgestaltung muss auf der Benutzbarkeit des Platzes als öffentlicher Raum liegen. Hierzu gehören neben einer sicheren Überquerbarkeit des Bischofsplatzes für Fußgehende und Radfahrende auch eine autofreie Nutzung des Straßenraums der Conrad- und Eschenstraße.
 
-Die städtebaulichen Potenziale einer Integration der Fläche der Bahn AG (zwischen Eschenstraße, Bischofsplatz und Bahndamm) sind bei den Planungen auszuschöpfen.
+Die städtebaulichen Potentiale einer Integration der Fläche der Bahn AG (zwischen Eschenstraße, Bischofsplatz und Bahndamm) sind bei den Planungen auszuschöpfen.
 
 ## Quartierbus Neustadt
 
