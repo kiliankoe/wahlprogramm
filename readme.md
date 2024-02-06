@@ -444,7 +444,7 @@ Diese weitere Finanzierungsssäule sollte nicht dauerhaft ein Zuschuss aus dem a
 
 ## Förderung des Fahrradverkehrs
 
-Der Fahrradverkehr ist eine umweltfreundliche und ressourcenschonende Verkehrsart und muss deshalb gefördert werden. Zusätzlich ist in einer sich verdichtenden Stadt der Radverkehr ideal geeignet, den knapper werdenden Raum effizient zu nutzen $-$ dort wo heute noch ein Auto parkt, können morgen 20 Fahrräder abgestellt werden. Um den Radverkehr substanziell fördern zu können, sind die Ausgaben für den Radverkehr im Haushalt schnellstmöglich auf mindestens 20,00 Euro pro Einwohnenden und Jahr zu erhöhen. Damit kann das Radverkehrskonzept der Stadt zügig und ohne Abstriche umgesetzt werden.
+Der Fahrradverkehr ist eine umweltfreundliche und ressourcenschonende Verkehrsart und muss deshalb gefördert werden. Zusätzlich ist in einer sich verdichtenden Stadt der Radverkehr ideal geeignet, den knapper werdenden Raum effizient zu nutzen − dort, wo heute noch ein Auto parkt, können morgen 20 Fahrräder abgestellt werden. Um den Radverkehr substanziell fördern zu können, sind die Ausgaben für den Radverkehr im Haushalt schnellstmöglich auf mindestens 20,00€ pro Einwohnenden und Jahr zu erhöhen. Damit kann das Radverkehrskonzept der Stadt zügig und ohne Abstriche umgesetzt werden.
 
 Über das Radverkehrskonzept hinaus sehen wir deutlichen Handlungsbedarf, den Radverkehr schneller, sicherer und komfortabler zu gestalten.
 
@@ -452,7 +452,7 @@ Die PIRATEN Dresden fordern:
 
 - In Dresden ist ein zusammenhängendes und die Stadtteile verbindendes Netz von Fahrradstraßen einzuführen. Auf Fahrradstraßen haben Radfahrende Vorfahrt und besonderen Schutz. Auch können Radfahrende nebeneinander fahren. Autos können auf Fahrradstraßen zugelassen werden, sie müssen dann allerdings besonders Rücksicht nehmen.
 
-- Neben den beiden bereits geplanten Fahrradparkhäusern an den Bahnhöfen ist sicheres und komfortables Fahrradparken flächendeckend einzuführen. Dies bedeutet neben des klassischen Fahrradbügels auch überdachte Abstellmöglichkeiten sowie abschließbare Fahrradboxen. Überall, wo Quellen und Ziele des Radverkehrs sind, muss es Fahrradabstellmöglichkeiten in ausreichender Qualität und Quantität geben.
+- Neben den beiden bereits geplanten Fahrradparkhäusern an den Bahnhöfen ist sicheres und komfortables Fahrradparken flächendeckend einzuführen. Dies bedeutet neben dem klassischen Fahrradbügel auch überdachte Abstellmöglichkeiten sowie abschließbare Fahrradboxen. Überall, wo Quellen und Ziele des Radverkehrs sind, muss es Fahrradabstellmöglichkeiten in ausreichender Qualität und Quantität geben.
 
 - Wir fordern Radschnellwege vom Stadtrand in die Innenstadt und zwischen den Stadtteilen. Diese Radschnellwege können baulich abgetrennt sein oder z. B. durch eine "Grüne Welle für Radfahrer" realisiert werden.
 
@@ -772,9 +772,9 @@ Die PIRATEN Dresden bekennen sich zu dem Grundsatz, dass Tiere nicht zum Wohlgef
 
 Ein solcher 'Zoo der Zukunft' hat den Auftrag, die Wichtigkeit des Respekts vor der Natur und den Erhalt der Artenvielfalt sowohl im eigenen (persönlichen) Umfeld als auch im (weit) größeren Rahmen zu fördern. Um dieses Ziel zu erreichen, sind z. B. (interaktive) Lehrpfade und gezielte didaktische Angebote (z. B. 'Schule im Zoo') weit besser geeignet als das bloße Anschauen von eingesperrten Tieren.
 
-Um das Ziel eines tierfreien Zoos zu erreichen, muss der Zoo zunächst sämtliche Nachzucht einstellen. Die dadurch freiwerdenen Kapazitäten können für eine Übergangszeit als Auffangstation für sonst nicht mehr vermittelbare oder auswildbare Tiere (Sanctuary) genutz werden.
+Um das Ziel eines tierfreien Zoos zu erreichen, muss der Zoo zunächst sämtliche Nachzucht einstellen. Die dadurch freiwerdenden Kapazitäten können für eine Übergangszeit als Auffangstation für sonst nicht mehr vermittelbare oder auswildbare Tiere (Sanctuary) genutzt werden.
 
-Den Auftrag zum Artenschutz (Artenerhalt) soll der Dresdner Zoo über Partnerschaften mit Organisationen in den Herkunftshabitaten bedrohter Tierarten erfüllen. Die Erfolge/Miserfolge dieses 'Artenschutz vor Ort' sowie die Gründe für das Gelingen/Scheitern sind im Zoo erlebbar zu machen.
+Den Auftrag zum Artenschutz (Artenerhalt) soll der Dresdner Zoo über Partnerschaften mit Organisationen in den Herkunftshabitaten bedrohter Tierarten erfüllen. Die Erfolge/Misserfolge dieses 'Artenschutz vor Ort' sowie die Gründe für das Gelingen/Scheitern sind im Zoo erlebbar zu machen.
 
 ## Tierschutz im Zirkus
 
