@@ -118,7 +118,7 @@ In Dresden gibt es viele nicht-kommerzielle Vereine und Initiativen, die Raum f�
 
 ## Freitanz legalisieren
 
-Die PIRATEN Dresden setzen sich dafür ein, dass nicht-kommerzielle Freitanz-Veranstaltungen nach Vorbild des Bremer-Modelles legalisiert werden.
+Die PIRATEN Dresden setzen sich dafür ein, dass nicht-kommerzielle Freitanz-Veranstaltungen nach Vorbild des Bremer-Modells legalisiert werden.
 
 # Bürgerpartizipation und Transparenz
 
