@@ -422,6 +422,15 @@ Straßenkunst und Straßenmusik sind eine wundervolle Art, eine lebendige und le
 
 Die PIRATEN Dresden wollen $-$ parallel zur Schulbildung $-$ die außerschulische kulturelle Bildung insbesondere für Kinder und Jugendliche sichern. Das umfasst alle staatlichen Bildungsmöglichkeiten in Tanz, Theater, Musik, Sport und allen anderen Formen bildender und darstellender Künste. Die individuelle Förderung für die Bildung an privaten Einrichtungen soll im Bedarfsfall ebenfalls möglich sein. Ein erster Schritt in diese Richtung ist der für Kinder und Jugendliche kostenlose Eintritt in alle Museen der Stadt, zumindest an einem Tag in der Woche.
 
+## 13. Februar – Naziaufmärsche und städtisches Gedenken
+
+Die Piraten Dresden zeigen sich solidarisch mit Initiativen, die rund um den 13. Februar Naziaufmärschen mit zivilem Ungehorsam begegnen. Wir dürfen nicht hinnehmen, dass sich Jahr um Jahr rund um diesen Tag Neonazis in der Dresdner Innenstadt breit machen und ihren menschenverachtenden Geschichtsrevisionismus durch die Straßen tragen.
+Auch das offizielle Gedenken der Stadt sehen wir kritisch. Die Menschenkette verhindert keine Naziaufmärsche und ihre inhaltliche Ausgestaltung fokussiert sich auf Leid und Zerstörung in Dresden. Die Vergangenheit hat gezeigt, dass sich das offizielle Gedenken der Stadt nicht von diesem Fokus lösen kann, es ist immanent mit Leid und Zerstörung einer deutschen Stadt verbunden. In den Fokus von Erinnerungspolitik gehört keine bombardierte Gauhauptstadt, sondern die Opfer des Nationalsozialismus. Wir wirken deshalb darauf hin, dass das städtische Gedenken zum 13. Februar abgeschafft wird.
+
+## Interims-Anbau an der Semperoper
+
+Wir Piraten begrüßen die anstehende Sanierung der Semperoper, sprechen uns aber vehement dagegen aus, dass der dafür nötige Interims-Anbau im Zwingergarten stehen soll. Wir fordern, dass der Freistaat Sachsen unter Einbeziehung des Dresdner Stadtrates eine Lösung ausarbeitet, die den Park unangetastet lässt.
+
 # Sport
 
 ## Zweck und gesellschaftlicher Mehrwert des Sports
